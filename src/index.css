@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-img{
+ background: url("../public/exbg.jpeg");
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+}
+
+
