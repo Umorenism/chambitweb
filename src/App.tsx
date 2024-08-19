@@ -10,7 +10,7 @@ const App = () => {
 
       <div className="bg-white shadow-lg py-2 rounded-md w-full max-w-[1100px] flex px-4 flex-col md:flex-row">
         <div className="md:w-[20%] aspect-video h-auto  py-4 w-full">
-          <img src={pic5} className="w-full" />
+          <img src={pic5} className="w-full rounded-md" />
         </div>
         <div className="md:w-[80%] ml-2 justify-center flex flex-col w-full">
           <h1 className="text-3xl">Name:Pam Chambit</h1>
@@ -28,7 +28,7 @@ const App = () => {
       </div>
       <div className="bg-white shadow-lg py-2 rounded-md w-full max-w-[1100px] flex px-4 flex-col mt-4 md:flex-row">
         <div className="md:w-[20%] aspect-video h-auto  py-4 w-full">
-          <img src={pic5} className="w-full" />
+          <img src={pic5} className="w-full rounded-md" />
         </div>
         <div className="md:w-[80%] justify-center flex flex-col w-full ml-2">
           <h1 className="text-3xl">Name:Senjay</h1>
@@ -43,7 +43,7 @@ const App = () => {
       </div>
       <div className="bg-white shadow-lg py-2 rounded-md w-full max-w-[1100px] flex px-4 flex-col mt-4 md:flex-row">
         <div className="md:w-[20%] aspect-video h-auto  py-4 w-full">
-          <img src={pic3} className="w-full" />
+          <img src={pic3} className="w-full rounded-md" />
         </div>
         <div className="md:w-[80%] justify-center flex flex-col w-full ml-2">
           <h1 className="text-3xl">Name:Kama rochambit</h1>
@@ -61,7 +61,7 @@ const App = () => {
       </div>
       <div className="bg-white shadow-lg py-2 rounded-md w-full max-w-[1100px] flex px-4 flex-col mt-4 md:flex-row">
         <div className="md:w-[20%] aspect-video h-auto  py-4 w-full">
-          <img src={pic5} className="w-full" />
+          <img src={pic5} className="w-full rounded-md" />
         </div>
         <div className="md:w-[80%] justify-center flex flex-col w-full ml-2">
           <h1 className="text-3xl">Kyra Totler</h1>
@@ -79,7 +79,7 @@ const App = () => {
       </div>
       <div className="bg-white shadow-lg py-2 rounded-md w-full max-w-[1100px] flex px-4 flex-col mt-4 md:flex-row">
         <div className="md:w-[20%] aspect-video h-auto  py-4 w-full">
-          <img src={pic5} alt="logo" className="w-full" />
+          <img src={pic5} alt="logo" className="w-full rounded-md" />
         </div>
         <div className="md:w-[80%] justify-center flex flex-col w-full ml-2">
           <h1 className="text-3xl">Zohiabussian</h1>
@@ -97,7 +97,7 @@ const App = () => {
       </div>
       <div className="bg-white shadow-lg py-2 rounded-md w-full max-w-[1100px] flex px-4 flex-col mt-4 md:flex-row">
         <div className="md:w-[20%] aspect-video h-auto  py-4 w-full">
-          <img src={pic5} alt="logo" className="w-full" />
+          <img src={pic5} alt="logo" className="w-full rounded-md" />
         </div>
         <div className="md:w-[80%] justify-center flex flex-col w-full ml-2">
           <h1 className="text-3xl">Vimzy</h1>
@@ -112,7 +112,7 @@ const App = () => {
       </div>
       <div className="bg-white shadow-lg py-2 rounded-md w-full max-w-[1100px] flex px-4 flex-col mt-4 md:flex-row">
         <div className="md:w-[20%] aspect-video h-auto  py-4 w-full">
-          <img src={pic5} alt="logo" className="w-full" />
+          <img src={pic5} alt="logo" className="w-full rounded-md" />
         </div>
         <div className="md:w-[80%] justify-center flex flex-col w-full ml-2">
           <h1 className="text-3xl">ARCHIBACO</h1>
