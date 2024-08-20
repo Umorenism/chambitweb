@@ -137,7 +137,7 @@ const App = () => {
           <h2 className="text-xl">
             https:
             <a
-              href="https://t.me/ARCHIBACO"
+              href="https://t.me/sullaterdo"
               className="text-blue-600 underline"
             >
               @sullaterdo
