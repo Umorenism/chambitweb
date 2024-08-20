@@ -128,6 +128,24 @@ const App = () => {
           <p>Role:Officia Listing Agent</p>
         </div>
       </div>
+      <div className="bg-white shadow-lg py-2 rounded-md w-full max-w-[1100px] flex px-4 flex-col mt-4 md:flex-row">
+        <div className="md:w-[20%] aspect-video h-auto  py-4 w-full">
+          <img src={pic5} alt="logo" className="w-full rounded-md" />
+        </div>
+        <div className="md:w-[80%] justify-center flex flex-col w-full ml-2">
+          <h1 className="text-3xl">SULLA TERDO</h1>
+          <h2 className="text-xl">
+            https:
+            <a
+              href="https://t.me/ARCHIBACO"
+              className="text-blue-600 underline"
+            >
+              @sullaterdo
+            </a>
+          </h2>
+          <p>Role:Officia Listing Agent</p>
+        </div>
+      </div>
     </div>
   );
 };
