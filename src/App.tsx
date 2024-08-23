@@ -1,6 +1,5 @@
-import pic3 from "../public/imageLogo/pic3.jpg";
+import logo from "../public/logo.jpg";
 
-import pic5 from "../public/imageLogo/logo.jpg";
 const App = () => {
   return (
     <div className="min-h-screen flex justify-center items-center  px-4 flex-col bg-slate-100">
@@ -10,7 +9,7 @@ const App = () => {
 
       <div className="bg-white shadow-lg py-2 rounded-md w-full max-w-[1100px] flex px-4 flex-col md:flex-row">
         <div className="md:w-[20%] aspect-video h-auto  py-4 w-full">
-          <img src={pic5} className="w-full rounded-md" />
+          <img src={logo} className="w-full rounded-md" />
         </div>
         <div className="md:w-[80%] ml-2 justify-center flex flex-col w-full">
           <h1 className="text-3xl">Name:Pam Chambit</h1>
@@ -28,7 +27,7 @@ const App = () => {
       </div>
       <div className="bg-white shadow-lg py-2 rounded-md w-full max-w-[1100px] flex px-4 flex-col mt-4 md:flex-row">
         <div className="md:w-[20%] aspect-video h-auto  py-4 w-full">
-          <img src={pic5} className="w-full rounded-md" />
+          <img src={logo} className="w-full rounded-md" />
         </div>
         <div className="md:w-[80%] justify-center flex flex-col w-full ml-2">
           <h1 className="text-3xl">Name:Senjay</h1>
@@ -43,7 +42,7 @@ const App = () => {
       </div>
       <div className="bg-white shadow-lg py-2 rounded-md w-full max-w-[1100px] flex px-4 flex-col mt-4 md:flex-row">
         <div className="md:w-[20%] aspect-video h-auto  py-4 w-full">
-          <img src={pic3} className="w-full rounded-md" />
+          <img src={logo} className="w-full rounded-md" />
         </div>
         <div className="md:w-[80%] justify-center flex flex-col w-full ml-2">
           <h1 className="text-3xl">Name:Kama rochambit</h1>
@@ -61,7 +60,7 @@ const App = () => {
       </div>
       <div className="bg-white shadow-lg py-2 rounded-md w-full max-w-[1100px] flex px-4 flex-col mt-4 md:flex-row">
         <div className="md:w-[20%] aspect-video h-auto  py-4 w-full">
-          <img src={pic5} className="w-full rounded-md" />
+          <img src={logo} className="w-full rounded-md" />
         </div>
         <div className="md:w-[80%] justify-center flex flex-col w-full ml-2">
           <h1 className="text-3xl">Kyra Totler</h1>
@@ -79,7 +78,7 @@ const App = () => {
       </div>
       <div className="bg-white shadow-lg py-2 rounded-md w-full max-w-[1100px] flex px-4 flex-col mt-4 md:flex-row">
         <div className="md:w-[20%] aspect-video h-auto  py-4 w-full">
-          <img src={pic5} alt="logo" className="w-full rounded-md" />
+          <img src={logo} alt="logo" className="w-full rounded-md" />
         </div>
         <div className="md:w-[80%] justify-center flex flex-col w-full ml-2">
           <h1 className="text-3xl">Zohiabussian</h1>
@@ -97,14 +96,14 @@ const App = () => {
       </div>
       <div className="bg-white shadow-lg py-2 rounded-md w-full max-w-[1100px] flex px-4 flex-col mt-4 md:flex-row">
         <div className="md:w-[20%] aspect-video h-auto  py-4 w-full">
-          <img src={pic5} alt="logo" className="w-full rounded-md" />
+          <img src={logo} alt="logo" className="w-full rounded-md" />
         </div>
         <div className="md:w-[80%] justify-center flex flex-col w-full ml-2">
-          <h1 className="text-3xl">Vimzy</h1>
+          <h1 className="text-3xl">Yimzy</h1>
           <h2 className="text-xl">
             https:
-            <a href="https://t.me/vimzy05" className="text-blue-600 underline">
-              @vimzy05
+            <a href="https://t.me/yimzy05" className="text-blue-600 underline">
+              @Yimzy05
             </a>
           </h2>
           <p>Role:Officia Listing Agent</p>
@@ -112,7 +111,7 @@ const App = () => {
       </div>
       <div className="bg-white shadow-lg py-2 rounded-md w-full max-w-[1100px] flex px-4 flex-col mt-4 md:flex-row">
         <div className="md:w-[20%] aspect-video h-auto  py-4 w-full">
-          <img src={pic5} alt="logo" className="w-full rounded-md" />
+          <img src={logo} alt="logo" className="w-full rounded-md" />
         </div>
         <div className="md:w-[80%] justify-center flex flex-col w-full ml-2">
           <h1 className="text-3xl">ARCHIBACO</h1>
@@ -130,7 +129,7 @@ const App = () => {
       </div>
       <div className="bg-white shadow-lg py-2 rounded-md w-full max-w-[1100px] flex px-4 flex-col mt-4 md:flex-row">
         <div className="md:w-[20%] aspect-video h-auto  py-4 w-full">
-          <img src={pic5} alt="logo" className="w-full rounded-md" />
+          <img src={logo} alt="logo" className="w-full rounded-md" />
         </div>
         <div className="md:w-[80%] justify-center flex flex-col w-full ml-2">
           <h1 className="text-3xl">SULLA TERDO</h1>
